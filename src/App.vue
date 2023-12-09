@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="min-h-screen w-screen font-Roboto">
     <RouterView />
   </div>
 </template>
